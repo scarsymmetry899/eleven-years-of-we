@@ -1,0 +1,24 @@
+{
+  "$schema": "https://tinyodes-studio.vercel.app/showcase.schema.json",
+  "title": "11 Years of WE",
+  "slug": "eleven-years-of-we",
+  "occasions": [
+    "friends",
+    "anniversaries"
+  ],
+  "tagline": "A 2000s point-and-shoot that turns into one endless 35mm film reel of a friendship.",
+  "concept": "Five friends met at work in 2015 and stayed for life. Instead of a slideshow, the memory object itself: a mid-2000s digital camera powers on, flips to its LCD and fires the shutter, and the captured photo morphs into film stock that becomes a single unbroken reel of twenty-three exposures across five chapters. At the end of the roll, any friend can add their own frame.",
+  "features": [
+    "Power-on, flip and shutter camera ritual",
+    "Continuous 35mm reel with live frame counter",
+    "Light-table loupe for every exposure",
+    "Add-your-own-memory frames for the group"
+  ],
+  "tech": "Next.js, TypeScript, Tailwind, Framer Motion, Web Audio",
+  "liveUrl": "https://eleven-years-of-we.vercel.app",
+  "cover": "/covers/eleven-years-of-we.jpg",
+  "order": 30,
+  "kind": "original",
+  "consent": true,
+  "note": "Shown with the client's consent."
+}
